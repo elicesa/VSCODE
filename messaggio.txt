@@ -1,2 +1,2 @@
-Benvenuti nel diario di laboratorio.
-ciao
+Benvenuti nel diario di laboratorio!
+Qui documentiamo esperimenti e risultati.
