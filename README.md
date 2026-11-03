@@ -6,3 +6,4 @@ Metodo: una modifica alla volta.
 Stato: bozza verificata
 Ciao sono nel main 
 Repository pubblicato per il laboratorio Git.
+Revisione completata
